@@ -23,6 +23,7 @@ App deployed at : https://todo-rivert.herokuapp.com/
 
 - Bundled using Parcel
   -To use dowloand the code
+  -Run -> 'npm install'
   -Run -> 'node server.js'
 
 Feel free to use and populate the api. Be gentle!

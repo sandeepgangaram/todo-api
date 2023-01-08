@@ -8,7 +8,11 @@ const seed = require("./helpers/seed");
 
 const app = express();
 
-app.use(cors());
+app.use(
+  cors({
+    origin: process.env.HOST,
+  })
+);
 
 app.use(express.json({ limit: "10kb" }));
 

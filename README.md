@@ -7,16 +7,16 @@
 - Express.js
 - MongoDB
 
-# App deployed at : [https://todo-sandev.onrender.com/](https://todo-sandev.onrender.com/)
+App deployed at : [https://todo-sandev.onrender.com/](https://todo-sandev.onrender.com/)
 
-# API Features
+## API Features
 
 - Full CRUD functionality
 - End Points
   - GET, POST - https://todo-sandev.onrender.com/api/todos
   - DELETE, PATCH - https://todo-sandev.onrender.com/api/todos/:id
 
-# FrontEnd Features
+## FrontEnd Features
 
 - Sort functionality to sort by Completed, Incompleted along with sorting by time created.
 - Pagination - currently at 9 todos per page
@@ -27,7 +27,7 @@
 - Basic Responsive design (could be improved a lot)
 - Bundled using Parcel
 
-# To Play Around
+## To Play Around
 
 ```
 git clone https://github.com/sandeepgangaram/todo-api.git
